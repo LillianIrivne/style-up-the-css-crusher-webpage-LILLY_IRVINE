@@ -1,0 +1,58 @@
+.body-class {
+  background-color: #f0f0f0;
+}
+
+.header-class {
+  background-color: #333;
+  color: #fff;
+}
+
+.nav-class {
+  background-color: #666;
+  color: #fff;
+}
+
+.nav-class a.active {
+  font-weight: bold;
+}
+
+.title-class {
+  color: #ff5733;
+}
+
+.section-title-class {
+  color: #009933;
+}
+
+.text-class {
+  color: #000;
+}
+
+.image-class {
+  border: 2px solid #ffcc00;
+}
+
+.form-class input[type="text"],
+.form-class input[type="email"],
+.form-class textarea {
+  background-color: #ffffcc;
+  color: #333;
+  border: 1px solid #333;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.button-class {
+  background-color: #ffcc00;
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.footer-class {
+  background-color: #666;
+  color: #fff;
+}
+
+@media only screen and (max-width: 768px) 
